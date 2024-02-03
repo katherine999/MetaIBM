@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 11 16:33:21 2023
 
-@author: JH_Lin
+@author:  Unvieling it after the peers review of the article
 """
 
 from mpi4py import MPI 
