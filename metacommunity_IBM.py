@@ -4,7 +4,7 @@ Created on Tue May 17 09:32:30 2022
 
 @title: metacommunuity individuals based model version 2.9.12
 
-@author: JH_Lin
+@author: Unvieling it after the peers review of the article
 """
 
 import numpy as np
