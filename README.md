@@ -5,5 +5,5 @@
 #### This is the beta versions of the MetaIBM library for testing, we will release it as a formal version in the future.
 #### In this version, we additionally provided corridors network in the metacommunity landscape between patches
 #### In this version, we also provided some advanced algorithms in graph theory.
-#### Note that other versions of this library providing other advanced algorithms is also avaiable in the brance of the project.
+#### Note that other versions of this library providing other advanced algorithms is also avaiable in the brance of the repository.
 
