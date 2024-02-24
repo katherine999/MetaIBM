@@ -1,4 +1,4 @@
-# MetaIBM-v2.9.13-beta
+# MetaIBM-v2.9.13-beta (Metacommunity Individual-based Modelling)
 ## This is the version.2.9.13-beta for testing some new and advanced algoritms about graph theory.
 ### a python-based library for building a Individual-based model in Ecology 
 #### metacommunity_IBM.py is the source code of the library
