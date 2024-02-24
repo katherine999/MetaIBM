@@ -1,4 +1,4 @@
-# MetaIBM
+# MetaIBM (Metacommunity Individual-based Modelling)
 ## This is the formal released version.2.9.12 
 ### a python-based library for building a Individual-based model in Community Ecology 
 #### metacommunity_IBM.py is the source code of the library (version.2.9.12).
